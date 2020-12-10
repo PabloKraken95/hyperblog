@@ -11,5 +11,6 @@ An incredible blog or the [Git and Github course](https://platzi.com/cursos/git-
 * The multiple personalities of Freddy
 * Created by Platzi Team
 * Includes examples on Windows, Linux and Mac
+* Available for all ages
 
 A kindly reminder: **This readme.md is a joke**.  It's design as an example. If you reach here DON'T TAKE IT SERIOUSLY and go [**watch the course**](https://platzi.com/cursos/git-github/ "watch the course").
